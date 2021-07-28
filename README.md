@@ -1,11 +1,11 @@
 # How to use this Repository
-This repository is dedicated to sign the CLA contract that protects OMP public repositories.
+This repository is dedicated for participants to sign the IPR Agreement that protects OMP public repositories.
 
-# Open Manufacturing Platform (OMP) CLA
+# Open Manufacturing Platform (OMP) Contribution Acknowledgement
 
-The Open Manufacturing Platform (OMP) IP policy specifies that projects can adopt the OMP CLA. The Open Manufacturing Platform Steering Committee has adopted [Individual]() and [Corporate]() CLA.
+Contributors to Open Manufacturing Platform (OMP) repositories agree to the terms of the OMP IP policies.
 
-OMP uses [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) to ensure that all contributors have signed the appropriate documents when contributing to a project which requires a CLA. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
+OMP uses [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) to ensure that all contributors have signed the appropriate documents. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
 
 * Once a contributor is authorized for one OMP project, the signature is recognized for any other OMP repos that use EasyCLA.
 * Contributors may sign as individuals, or their company can sign on their behalf.
